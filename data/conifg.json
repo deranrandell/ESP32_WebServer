@@ -1,0 +1,8 @@
+{
+    "wifi_ssid": "MyWiFi",
+    "wifi_password": "SecurePassword",
+    "server_port": 80,
+    "jwt_secret": "SuperSecureSecret",
+    "ota_enabled": true
+  }
+  
